@@ -1,0 +1,78 @@
+body{
+    background-color:#F2811D;
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    padding:0;
+    margin:0;
+    }
+    .text-uppercase{
+    text-transform:uppercase;
+    }
+    body{
+    font-family:Montserrat;
+    }
+    #container{
+    background-color:#F2811D;
+    padding:20px;
+    }
+    #container h1{
+    color:#F2D338;
+    }
+    ul li{
+    list-style:none;
+    float:right;
+    margin-left:15px;
+    }
+    ul li a{
+    text-decoration:none;
+    color:#F2D338;
+    font-weight: 600    ;
+    transition: all .7s;
+    }
+    #header h1{
+        font-family: Montserrat;
+        text-align: center;
+        transition: all .7s;
+        
+    }
+    #header{
+        margin-top: 100px;
+        color:#F2D338;
+    }
+    #header i{
+        margin-top: 15px;
+        font-size: 30px;
+        transition: all .7s;
+    }
+    #header i:hover{
+        color: #fff;
+    }
+    #header h1:hover{
+        color: #fff;
+    }
+    #paragraph h2{
+        font-family: Montserrat;
+        text-align: center;
+        color:#F2D338;
+    }
+    #paragraph{
+        margin-top: 100px;
+    }
+    #menu a:hover{
+        color: #fff;
+    }
+    #paragraph p{
+        font-family: Montserrat;
+        text-align: center;
+        margin-top: 50px;
+        color:#F2D338;
+        font-weight: 600;
+        
+    }
+    .sign{
+        color:#F2D338; 
+        text-align: center;
+        bottom: 0px;
+        position: absolute;
+    }
